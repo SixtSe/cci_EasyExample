@@ -33,6 +33,7 @@
 #define OutputNumber_Tageszaehler         12000
 #define OutputNumber_Gesamtzaehler        12003
 #define Rectangle_Box                     14000
+#define Rectangle_14001                   14001
 #define Meter_Gesamtzaehler               17000
 #define Meter_Tageszaehler                17001
 #define LinearBargraph_Gesamtzaehler      18000
@@ -55,3 +56,8 @@
 #define ObjectPointer_Gesamtziel          27003
 #define AuxFunction2_PlusPlus             29000
 #define AuxFunction2_MinusMinus           29001
+#define ColorMap_34000                    34000
+#define ColorMap_34001                    34001
+#define ColorMap_34002                    34002
+#define ColorMap_34003                    34003
+#define ExternalObjectDefinition_38000    38000
