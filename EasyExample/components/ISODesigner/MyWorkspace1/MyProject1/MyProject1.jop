@@ -2246,7 +2246,7 @@
 					<Value>(0,0)(48,0)(48,49)(0,49)</Value>
 				</Property>
 				<Property Name="Transform">
-					<Value>(1.3333333333333333)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.2857142857142856)(0.0000000000000000)</Value>
+					<Value>(1.3333333730697632)(0.0000000000000000)(0.0000000000000000)(0.0000000000000000)(1.2857142686843872)(0.0000000000000000)</Value>
 				</Property>
 				<Property Name="Width">
 					<Value>64</Value>
@@ -3064,6 +3064,55 @@
 				</Property>
 			</PropertySheet>
 		</Object>
+		<Object Class="CAuxInput" Name="AuxInput" ObjectName="AuxInput2_28000" Pinned="FALSE" JVS-ID="28000">
+			<PropertySheet Name="AuxInput">
+				<Property Name="BackColor">
+					<Value>16777215</Value>
+				</Property>
+				<Property Name="FunctionType">
+					<Value>0</Value>
+				</Property>
+				<Property Name="InputID">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FunctionType2">
+					<Value>0</Value>
+				</Property>
+				<Property Name="CriticalControl">
+					<Value>0</Value>
+				</Property>
+				<Property Name="SingleAssignment">
+					<Value>1</Value>
+				</Property>
+				<Property Name="ISO-Version">
+					<Value>ISO_2010</Value>
+				</Property>
+				<Property Name="EnableExport">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FileName">
+					<Value/>
+				</Property>
+				<Property Name="Width">
+					<Value>80</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>80</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ExternalReferenceAllowed">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
 		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_PlusPlus" Pinned="TRUE" JVS-ID="29000">
 			<PropertySheet Name="AuxFunction">
 				<Property Name="BackColor">
@@ -3178,6 +3227,128 @@
 				<Object JVS-ID="4194340"/>
 			</Objects>
 		</Object>
+		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_29002" Pinned="FALSE" JVS-ID="29002">
+			<PropertySheet Name="AuxFunction">
+				<Property Name="BackColor">
+					<Value>16777215</Value>
+				</Property>
+				<Property Name="FunctionType">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FunctionType2">
+					<Value>0</Value>
+				</Property>
+				<Property Name="CriticalControl">
+					<Value>0</Value>
+				</Property>
+				<Property Name="AssignmentLock">
+					<Value>0</Value>
+				</Property>
+				<Property Name="SingleAssignment">
+					<Value>1</Value>
+				</Property>
+				<Property Name="ISO-Version">
+					<Value>ISO_2010</Value>
+				</Property>
+				<Property Name="EnableExport">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FileName">
+					<Value/>
+				</Property>
+				<Property Name="Width">
+					<Value>80</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>80</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ExternalReferenceAllowed">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CAuxFunction" Name="AuxFunction" ObjectName="AuxFunction2_29003" Pinned="FALSE" JVS-ID="29003">
+			<PropertySheet Name="AuxFunction">
+				<Property Name="BackColor">
+					<Value>16777215</Value>
+				</Property>
+				<Property Name="FunctionType">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FunctionType2">
+					<Value>0</Value>
+				</Property>
+				<Property Name="CriticalControl">
+					<Value>0</Value>
+				</Property>
+				<Property Name="AssignmentLock">
+					<Value>0</Value>
+				</Property>
+				<Property Name="SingleAssignment">
+					<Value>1</Value>
+				</Property>
+				<Property Name="ISO-Version">
+					<Value>ISO_2010</Value>
+				</Property>
+				<Property Name="EnableExport">
+					<Value>0</Value>
+				</Property>
+				<Property Name="FileName">
+					<Value/>
+				</Property>
+				<Property Name="Width">
+					<Value>80</Value>
+				</Property>
+				<Property Name="Height">
+					<Value>80</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ExternalReferenceAllowed">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
+		<Object Class="CAuxPointer" Name="AuxPointer" ObjectName="AuxObjectPointer_33000" Pinned="FALSE" JVS-ID="33000">
+			<PropertySheet Name="AuxPointer">
+				<Property Name="PointerType">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Visible">
+					<Value>1</Value>
+				</Property>
+				<Property Name="Locked">
+					<Value>0</Value>
+				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
+				</Property>
+				<Property Name="Disabled">
+					<Value>0</Value>
+				</Property>
+				<Property Name="ExternalReferenceAllowed">
+					<Value>0</Value>
+				</Property>
+			</PropertySheet>
+		</Object>
 		<Object Class="CColorMap" Name="ColorMap" ObjectName="ColorMap_34000" Pinned="FALSE" JVS-ID="34000">
 			<PropertySheet Name="ColorMap">
 				<Property Name="ColorType">
@@ -3194,6 +3365,11 @@
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
+				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
 				</Property>
 				<Property Name="Disabled">
 					<Value>0</Value>
@@ -3220,6 +3396,11 @@
 				<Property Name="Visible">
 					<Value>1</Value>
 				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
+				</Property>
 				<Property Name="Disabled">
 					<Value>0</Value>
 				</Property>
@@ -3245,6 +3426,11 @@
 				<Property Name="Visible">
 					<Value>1</Value>
 				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
+				</Property>
 				<Property Name="Disabled">
 					<Value>0</Value>
 				</Property>
@@ -3269,6 +3455,11 @@
 				</Property>
 				<Property Name="Visible">
 					<Value>1</Value>
+				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
 				</Property>
 				<Property Name="Disabled">
 					<Value>0</Value>
@@ -3302,6 +3493,11 @@
 				</Property>
 				<Property Name="Locked">
 					<Value>0</Value>
+				</Property>
+				<Property Name="Comment">
+					<Value>
+						<![CDATA[AAA=]]>
+					</Value>
 				</Property>
 				<Property Name="Disabled">
 					<Value>0</Value>
